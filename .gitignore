@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Message Decipher/*
+!/Message Decipher/task/
+/Message Decipher/task/*
+!/Message Decipher/task/message.txt
+!/Message Decipher/task/secret-message.txt
+!/Message Decipher/task/task.js
